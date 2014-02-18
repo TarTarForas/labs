@@ -1,0 +1,16 @@
+fill - 1
+how much - 3
+input: struct car {
+    string surname;
+    string model;
+    string code;
+    int octanN;
+    int hp; //horse power
+    int gasV;
+    int gasInTank; // <= gasV
+    int oilV;
+};
+print - 3
+search by own - 4, name
+search by oct - 7, int
+
